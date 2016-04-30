@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40301ucmf_18_0004.png"; bbox 0 0 2429 3456; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 712 214 1201 370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 712 214 1201 370">
+     <span class='ocr_line' id='line_1_1' title="bbox 712 214 1201 370; baseline 0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 712 214 1201 370; x_wconf 79' lang='lat' dir='ltr'><strong>Microfilm·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 395 491 1215 747">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 41 428 1215 771">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 491 1215 747; baseline -0.003 -50.905"><span class='ocrx_word' id='word_1_2' title='bbox 395 491 1049 747; x_wconf 78' lang='lat' dir='ltr'><strong>Univers&#39;ty</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1095 518 1215 694; x_wconf 85' lang='lat' dir='ltr'>o·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 815 773 1193 974">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 815 773 1193 974">
+     <span class='ocr_line' id='line_1_3' title="bbox 815 773 1193 974; baseline -0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 815 773 1193 974; x_wconf 68' lang='lat' dir='ltr'>Libras</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 753 1148 1184 1337">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 719 1148 1184 1337">
+     <span class='ocr_line' id='line_1_4' title="bbox 753 1148 1184 1337; baseline -0.002 -39.073"><span class='ocrx_word' id='word_1_5' title='bbox 753 1148 1184 1337; x_wconf 78' lang='lat' dir='ltr'>February</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 516 1812 1215 1969">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 516 1812 1215 1969">
+     <span class='ocr_line' id='line_1_5' title="bbox 516 1812 1215 1969; baseline -0.013 0"><span class='ocrx_word' id='word_1_6' title='bbox 516 1812 1127 1969; x_wconf 76' lang='lat' dir='ltr'>Presewation</span> <span class='ocrx_word' id='word_1_7' title='bbox 1183 1833 1215 1900; x_wconf 62' lang='grc'>·«</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1220 3456">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1220 3456">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1220 3456; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1220 3456; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
